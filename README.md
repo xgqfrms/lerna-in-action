@@ -17,3 +17,29 @@ $ cd lerna-repo
 $ lerna init
 
 ```
+
+## packages
+
+```sh
+# $ mkdir lerna-test && cd lerna-test
+$ mkdir lerna-test && cd $_
+
+$ mkdir x-utils x-cli x-templates
+
+# 初始化包
+$ cd x-utils
+$ npm init -y 
+
+$ cd x-cli
+$ npm init -y
+
+$ cd x-templates
+$ npm init -y
+
+```
+
+
+## refs
+
+https://juejin.cn/post/6844903856153821198
+
