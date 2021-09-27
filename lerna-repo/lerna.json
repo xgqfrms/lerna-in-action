@@ -1,4 +1,7 @@
 {
+  "注释": "使用 yarn 的 workspaces",
+  "useWorkspaces": true,
+  "npmClient": "yarn",
   "packages": [
     "packages/*"
   ],
