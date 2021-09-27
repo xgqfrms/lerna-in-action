@@ -43,6 +43,8 @@ $ npm init -y
 
 ```sh
 # create
+$ lerna create x-test packages
+# OR (packages/@xgqfrms 不好使 ?)
 $ lerna create x-test packages/@xgqfrms
 
 ```
