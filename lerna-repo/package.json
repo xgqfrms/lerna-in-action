@@ -3,7 +3,8 @@
   "private": true,
   "注释": "多个子模块 packages 复用一个最外层的 node_modules",
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "packages/xgqfrms/*"
   ],
   "devDependencies": {
     "lerna": "^4.0.0"

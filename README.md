@@ -38,6 +38,15 @@ $ npm init -y
 
 ```
 
+## lerna script
+
+
+```sh
+# create
+$ lerna create x-test packages/@xgqfrms
+
+```
+
 
 ## refs
 
